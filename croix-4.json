@@ -9789,32 +9789,6 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":36,
-         "firstgid":2986,
-         "image":"..\/bi\/mapmaking\/tilesets\/gather_decoration_1.21.png",
-         "imageheight":6080,
-         "imagewidth":1152,
-         "margin":0,
-         "name":"gather_decoration_1.21",
-         "spacing":0,
-         "tilecount":6840,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":20,
-         "firstgid":9826,
-         "image":"..\/bi\/mapmaking\/tilesets\/gather_games_1.1.png",
-         "imageheight":960,
-         "imagewidth":640,
-         "margin":0,
-         "name":"gather_games_1.1",
-         "spacing":0,
-         "tilecount":600,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
