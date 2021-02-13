@@ -1,8 +1,3 @@
-#READ THIS BEFORE YOU DO ANYTHING ELSE!
-
-This repository is a personal one. Please make sure you use a personal github account to push into it.
-
-
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
