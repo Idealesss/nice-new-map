@@ -1,3 +1,19 @@
+#READ THIS FIRST BEFORE PUSHING ON THE MASTER!!!!
+
+This repo is a personal one, so please only use a personal account to push here. Change your git configuration if necessary:
+```asciidoc
+git config user.name ""
+
+git config user.email "email"
+```
+And when you push:
+
+```asciidoc
+git push https://username:password@github.com/Idealesss/nice-new-map.git
+```
+
+Also, please create your own map from the actual maps if it already exists, and once it deploys properly, you can delete the old map and replace it with your own.
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
